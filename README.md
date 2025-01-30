@@ -1,9 +1,9 @@
-- 👋 Hi, I’m vanshitagupta
+- ❤️ Hi, I’m vanshitagupta
 - 👩🏻‍🏫 I'm an undergraduate student 
 - 👀 I’m passionate about develop technologies 
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking for an internship that can enhance my learning journey 
-- 📫 How to reach me 
+- 📫 you can reach me vanshitagupta906@gmail.com
 - 😄 Pronouns: she/her
 
 
