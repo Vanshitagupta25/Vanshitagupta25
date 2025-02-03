@@ -1,8 +1,7 @@
-- ❤️ Hi, I’m vanshitagupta
+- ❤️ Hi, I’m vanshita gupta
 - 👩🏻‍🏫 I'm an undergraduate student 
-- 👀 I’m passionate about develop technologies 
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking for an internship that can enhance my learning journey 
+- ✨ Constantly learning and looking for ways to improve nyself and the processes around you
+- 😌 I’m looking for an internship that can enhance my learning journey 
 - 📫 you can reach me vanshitagupta906@gmail.com
 - 😄 Pronouns: she/her
 
