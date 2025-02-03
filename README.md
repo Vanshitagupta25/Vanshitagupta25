@@ -1,6 +1,6 @@
 - ❤️ Hi, I’m vanshita gupta
 - 👩🏻‍🏫 I'm an undergraduate student 
-- ✨ Constantly learning and looking for ways to improve nyself and the processes around you
+- ✨ Constantly learning and looking for ways to improve myself and the processes around you
 - 😌 I’m looking for an internship that can enhance my learning journey 
 - 📫 you can reach me vanshitagupta906@gmail.com
 - 😄 Pronouns: she/her
