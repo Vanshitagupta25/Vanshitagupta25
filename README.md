@@ -1,4 +1,4 @@
-- ❤️ Hi, I’m vanshita gupta
+- ❤️ 𝙃𝙞, 𝙄'𝙢 𝙫𝙖𝙣𝙨𝙝𝙞𝙩𝙖 𝙜𝙪𝙥𝙩a
 - 👩🏻‍🏫 I'm an undergraduate student 
 - ✨ Constantly learning and looking for ways to improve myself and the processes around you
 - 😌 I’m looking for an internship that can enhance my learning journey 
