@@ -1,11 +1,11 @@
-- ❤️ 𝙃𝙞, 𝙄'𝙢 𝙫𝙖𝙣𝙨𝙝𝙞𝙩𝙖 𝙜𝙪𝙥𝙩a
+- ❤️ 𝙃𝙞, 𝙄'𝙢 𝙑𝙖𝙣𝙨𝙝𝙞𝙩𝙖 𝙜𝙪𝙥𝙩𝙖
    
 - ✨ I'm a passionate Frontend Developer constantly learning and exploring new technologies to enhance user experiences and improve the processes around me😌.
   
-- 📫 Reach me at
+- 📫 ʏᴏᴜ ᴄᴀɴ ʀᴇᴀᴄʜ ᴍᴇ ᴀᴛ
 - vanshitagupta906@gmail.com
   
-- 👩🏻‍💻 Tech Stack
+- ⚡ Ｔｅｃｈ ｓｔａｃｋ
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
