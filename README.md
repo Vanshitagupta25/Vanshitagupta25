@@ -1,6 +1,6 @@
 - ❤️ 𝙃𝙞, 𝙄'𝙢 𝙑𝙖𝙣𝙨𝙝𝙞𝙩𝙖 𝙜𝙪𝙥𝙩𝙖
    
-- ✨ I'm a passionate Frontend Developer constantly learning and exploring new technologies to enhance user experiences and improve the processes around me😌.
+- ✨ I'm a passionate Frontend Developer and looking for an opportunity which provides growth and development in my career.
 
 
   
