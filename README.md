@@ -1,14 +1,16 @@
-- ❤️ 𝙃𝙞, 𝙄'𝙢 𝙑𝙖𝙣𝙨𝙝𝙞𝙩𝙖 𝙜𝙪𝙥𝙩𝙖
-   
-- ✨ I'm a passionate MERN Stack Developer and looking for an opportunity which provides growth and development in my career.
+👋 Hi, I'm Vanshita Gupta
 
+💻 Software Engineer | Full Stack Developer
 
-  
-- 📫 ʏᴏᴜ ᴄᴀɴ ʀᴇᴀᴄʜ ᴍᴇ ᴀᴛ
-- vanshitagupta906@gmail.com
+🚀 I'm a Software Engineer focused on building scalable and user-friendly web applications.
+🌱 Currently working with React.js, Next.js, Node.js, NestJS, TypeScript, and MongoDB.
+🧩 I enjoy working on REST APIs, authentication, real-time features, database integration, and responsive UI development.
+💡 I'm also strengthening my Java, DSA, OOP, and problem-solving skills.
+📚 Always learning and exploring better ways to build clean and maintainable applications.
 
+📫 Connect with me
+📧 Email: vanshitagupta.connect@gmail.com
 
-  
 - ⚡ Ｔｅｃｈ ｓｔａｃｋ
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -23,6 +25,72 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+Frontend
+HTML5
+CSS3 / SCSS
+JavaScript
+TypeScript
+React.js
+Next.js
+Tailwind CSS
+Bootstrap
+Figma
+
+Backend
+Node.js
+Express.js
+NestJS
+REST APIs
+Socket.IO
+JWT Authentication
+
+Databases & Cloud
+MongoDB
+PostgreSQL
+MySQL
+AWS
+Amazon S3
+AWS Lambda
+Vercel
+
+Programming & Tools
+Java
+JavaScript
+TypeScript
+python
+Git
+GitHub
+Postman
+VS Code
+Agile / Scrum
+
+Core Computer Science
+Data Structures & Algorithms
+Object-Oriented Programming
+Database Management Systems
+Computer Networks 
+Operating Systems
+System Design
+REST API Design
+Software Development Life Cycle
+
+🛠️ What I Work On
+Full-stack web applications
+Responsive and reusable UI components
+RESTful API development
+Authentication & authorization
+Real-time communication using Socket.IO
+Database design and integration
+Performance optimization
+Problem solving & DSA
+
+📌 Currently
+🔹 Working on full-stack applications using React, Next.js, NestJS, PostgreSQL and MongoDB
+🔹 Improving my Java & DSA skills
+🔹 Exploring AWS and scalable application architecture
+
+⭐ Feel free to explore my repositories and projects!
 
 <!---
 Vanshitagupta25/Vanshitagupta25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
