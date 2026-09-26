@@ -26,63 +26,63 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-Frontend
-HTML5
-CSS3 / SCSS
-JavaScript
-TypeScript
-React.js
-Next.js
-Tailwind CSS
-Bootstrap
-Figma
+Frontend: 
+HTML5,
+CSS3 / SCSS,
+JavaScript,
+TypeScript,
+React.js,
+Next.js,
+Tailwind CSS,
+Bootstrap,
+Figma,
 
-Backend
-Node.js
-Express.js
-NestJS
-REST APIs
-Socket.IO
-JWT Authentication
+Backend: 
+Node.js,
+Express.js,
+NestJS,
+REST APIs,
+Socket.IO,
+JWT Authentication,
 
-Databases & Cloud
-MongoDB
-PostgreSQL
-MySQL
-AWS
-Amazon S3
-AWS Lambda
-Vercel
+Databases & Cloud: 
+MongoDB,
+PostgreSQL,
+MySQL,
+AWS,
+Amazon S3,
+AWS Lambda,
+Vercel,
 
-Programming & Tools
-Java
-JavaScript
-TypeScript
-python
-Git
-GitHub
-Postman
-VS Code
-Agile / Scrum
+Programming & Tools: 
+Java,
+JavaScript,
+TypeScript,
+python,
+Git,
+GitHub,
+Postman,
+VS Code,
+Agile / Scrum,
 
-Core Computer Science
-Data Structures & Algorithms
-Object-Oriented Programming
-Database Management Systems
-Computer Networks 
-Operating Systems
-System Design
-REST API Design
+Core Computer Science: 
+Data Structures & Algorithms,
+Object-Oriented Programming,
+Database Management Systems,
+Computer Networks, 
+Operating Systems,
+System Design,
+REST API Design,
 Software Development Life Cycle
 
 🛠️ What I Work On
-Full-stack web applications
-Responsive and reusable UI components
-RESTful API development
-Authentication & authorization
-Real-time communication using Socket.IO
-Database design and integration
-Performance optimization
+Full-stack web applications,
+Responsive and reusable UI components,
+RESTful API development,
+Authentication & authorization,
+Real-time communication using Socket.IO,
+Database design and integration,
+Performance optimization,
 Problem solving & DSA
 
 📌 Currently
@@ -91,8 +91,5 @@ Problem solving & DSA
 🔹 Exploring AWS and scalable application architecture
 
 ⭐ Feel free to explore my repositories and projects!
-
-<!---
-Vanshitagupta25/Vanshitagupta25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
