@@ -2,11 +2,11 @@
 
 💻 Software Engineer | Full Stack Developer
 
-🚀 I'm a Software Engineer focused on building scalable and user-friendly web applications.
-🌱 Currently working with React.js, Next.js, Node.js, NestJS, TypeScript, and MongoDB.
-🧩 I enjoy working on REST APIs, authentication, real-time features, database integration, and responsive UI development.
-💡 I'm also strengthening my Java, DSA, OOP, and problem-solving skills.
-📚 Always learning and exploring better ways to build clean and maintainable applications.
+🚀 I'm a Software Engineer focused on building scalable, responsive, and user-friendly web applications.
+🌱 I work across the frontend and backend, building applications with modern JavaScript/TypeScript technologies and designing reliable APIs and database integrations.
+🧩 I enjoy working on full-stack development, REST APIs, authentication, real-time features, performance optimization, and responsive UI.
+💡 I'm continuously strengthening my Java, DSA, OOP, DBMS, and system design fundamentals.
+📚 Always learning, solving problems, and exploring better ways to build clean, maintainable, and scalable software.
 
 📫 Connect with me
 📧 Email: vanshitagupta.connect@gmail.com
