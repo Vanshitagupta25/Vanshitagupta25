@@ -86,8 +86,9 @@ Performance optimization,
 Problem solving & DSA
 
 📌 Currently
-🔹 Working on full-stack applications using React, Next.js, NestJS, PostgreSQL and MongoDB
+🔹Working on full-stack applications using React, Next.js, NestJS, PostgreSQL and MongoDB
 🔹 Improving my Java & DSA skills
+🔹 Exploring AI integration, including chatbots and AI assistants in real-world applications
 🔹 Exploring AWS and scalable application architecture
 
 ⭐ Feel free to explore my repositories and projects!
